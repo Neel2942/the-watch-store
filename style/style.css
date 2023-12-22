@@ -1,0 +1,69 @@
+
+.navbar-brand {
+    margin-right: auto; 
+}
+
+.navbar-nav {
+    margin-left: auto; 
+}
+
+.navbar {
+    height: 100px; 
+    background-color: white; 
+    color: black; 
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: black; 
+}
+
+.navbar-brand img {
+    width: 300px;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background: rgba(0, 0, 0, 0.638);
+    padding: 20px;
+    color: white;
+    width: 800px;
+}
+
+.card-img-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background: rgba(0, 0, 0, 0.414);
+    padding: 20px;
+    color: white;
+    width: 100%; 
+    height: 100%
+}
+
+.card-offer {
+    height: 350px;
+}
+
+.card-img-top {
+    height: 200px;
+}
+
+
+.subscribe-caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background: rgba(0, 0, 0, 0.638);
+    padding: 20px;
+    color: white;
+    width: 100%;
+    height: 100%;
+}
